@@ -1,2 +1,15 @@
 # Smiley-Face
-Created Smiley face using HTML and CSS.
+
+## A smiley face for practicing web development skills.
+
+## Technologies used :
+   1. HTML
+   2. CSS
+
+## Author :
+   Arjun Chavhan
+   Email: arjunchavhan024@gmail.com
+
+## Link :
+   url : https://github.com/arjunchavhan024/Smiley-Face
+
